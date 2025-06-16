@@ -37,6 +37,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
 </div>
 
+###
+
+<h2 align="center">Video Editing</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="50" alt="aftereffects logo"  />
+</div>
+
+###
+
 <h2 align="center">My Links🔗</h2>
 
 ###
@@ -54,14 +66,4 @@
 </div>
 
 
-###
 
-<h2 align="center">Video Editing</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="50" alt="aftereffects logo"  />
-</div>
-
-###
