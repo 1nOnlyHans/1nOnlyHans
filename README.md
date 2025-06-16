@@ -57,3 +57,9 @@
 <h2 align="center">Video Editing</h2>
 
 ###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="50" alt="aftereffects logo"  />
+</div>
+
+###
