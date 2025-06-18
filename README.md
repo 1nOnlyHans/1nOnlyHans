@@ -51,7 +51,7 @@
 
 ###
 
-<h2 align="center">My Links🔗</h2>
+<h2 align="center">My Socials🔗</h2>
 
 ###
 
