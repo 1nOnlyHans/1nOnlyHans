@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Hans and I'm a Student Web Developer, from Philippines</h2>
+<h2 align="center">Hi 👋! My name is Hans and I'm a Student Web Developer</h2>
 
 ###
 
