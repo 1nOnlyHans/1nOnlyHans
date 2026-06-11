@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm from the Philippines <br><br>- 3rd yr BSIT Student<br>- Studying Web Development<br>- Beginner</p>
+<p align="left">I'm from the Philippines <br><br>- Studying Web Development<br>- Beginner</p>
 
 ###
 
